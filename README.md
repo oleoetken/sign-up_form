@@ -1,1 +1,1 @@
-# sign-up_form
+In this project I will create a sign-up form using html and css and everything learned about forms. It will only cover the front end side of things for now and will not use Javascript. Future projects will cover those topics in more detail
