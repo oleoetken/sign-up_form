@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+
+.image-box {
+    
+}
+
+.image {
+
+}
+
+.info-box {
+    
+}
+
+.top-box {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 0px;
+    margin: 0px;
+    padding-top: 100px;
+    padding-left: 50px;
+    font-size: 24px;
+}
+
+.first {
+    margin: 0px;
+}
+
+.second {
+    margin: 0px;
+}
